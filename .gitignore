@@ -7,7 +7,7 @@
 .idea
 
 # CSV File Parser test output
-SampleFiles/output/
+src/CSVFileParser/SampleFiles/output/
 
 # User-specific files
 *.rsuser
